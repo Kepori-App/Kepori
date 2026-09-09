@@ -1,0 +1,94 @@
+[
+  {
+    "path": "404.html",
+    "sha256": "7b07542da6374e9925cf5130b7858079b98a7298c7ea1b955696b17f798d88a7"
+  },
+  {
+    "path": "_next/static/97115a52-206c-49ab-be12-9bbafa46662c/_buildManifest.js",
+    "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
+  },
+  {
+    "path": "_next/static/97115a52-206c-49ab-be12-9bbafa46662c/_ssgManifest.js",
+    "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
+  },
+  {
+    "path": "_next/static/chunks/LegalPage-Dxhi9lX9.js",
+    "sha256": "9ae87c3ca394fa1812bccaafd46065ea9095a0676d746118894cc3920af256de"
+  },
+  {
+    "path": "_next/static/chunks/Website-BJg8sGIR.js",
+    "sha256": "97f3b8dae67a2bc511f556ddbeec3a5bb5e8f5022ada07e40cf6c1085189cc0f"
+  },
+  {
+    "path": "_next/static/chunks/app-route-prefetch-policy-BUimX6i3.js",
+    "sha256": "9d44f5b8d73cb5ed63ecf7a5bda5a6d9f3c2e757e226cbea48578f2b8aa9fba1"
+  },
+  {
+    "path": "_next/static/chunks/framework-D_rUT4EX.js",
+    "sha256": "939d0fabebb3b2f01753bb866b067d8d3384fb06da19f0e6557609d3b1a9f4f7"
+  },
+  {
+    "path": "_next/static/chunks/index-DUhGQWDo.js",
+    "sha256": "c544b3147f92b57891439dbc00c04c50f6a5fd146b6c1d2836038fbe6beaf0ad"
+  },
+  {
+    "path": "_next/static/chunks/layout-segment-context-xT02Oa2n.js",
+    "sha256": "cc2e71a1b6d4e459ab0b08f82b2145f953a2c0c53fe7d3d93b52fe2e22cd4994"
+  },
+  {
+    "path": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
+  },
+  {
+    "path": "_next/static/chunks/site-config-ChNGxwTs.js",
+    "sha256": "99ccd812a1202cacd2f257afc5025ab340dba8f90fd2fe366d31969c88526f56"
+  },
+  {
+    "path": "_next/static/chunks/streamed-icons-Cs-m6aYg.js",
+    "sha256": "7eb2a6b44b9c0faa7300c8dd36b0fae7a35d9f65e139dd9046b3df193aa83bc8"
+  },
+  {
+    "path": "_next/static/css/index.BLVQyKJV.css",
+    "sha256": "0a3d79e0c7921734595fc0469d8cb0a08fccf91b44add61e494d7723e4817a1e"
+  },
+  {
+    "path": "images/app-icon.png",
+    "sha256": "51c5614912cfecb94782297512137da8484ed25129274f3e692b55b1c782bfbb"
+  },
+  {
+    "path": "images/chair.jpg",
+    "sha256": "5b5327d9f385e40f69309b546d939e00c56c1017a9f74e4ae412c4cbb06f9841"
+  },
+  {
+    "path": "images/coast.jpg",
+    "sha256": "bb2571155064393ebfc97326a0bf7d68d17a4a14ea48cf508cc63e0d9a08bdc5"
+  },
+  {
+    "path": "images/forest.jpg",
+    "sha256": "b88206a22382cec8eccc546a08a8a31cc24a864302ccebafdad1b4777380497f"
+  },
+  {
+    "path": "index.html",
+    "sha256": "910d7751ca5dff8ae0ebb60dde47a98b38b7738781312fc031d151c36263cfae"
+  },
+  {
+    "path": "index.rsc",
+    "sha256": "ed552819c0e98c1397d00a16f46d7edea5e8492b40430c6058edd67612279e2a"
+  },
+  {
+    "path": "privacy.html",
+    "sha256": "49ea2d924289731b0bbaab93f2b289ad06b855a2c6306ef065b53fa6a0d4f873"
+  },
+  {
+    "path": "privacy.rsc",
+    "sha256": "f186f3f3af54542e6fedefd627671f5952a04d7d1d017ab7f4f3febc18e7e3b2"
+  },
+  {
+    "path": "terms.html",
+    "sha256": "7b46d41f26eb7d1a2358d803e066e7ecf51abc795b9a3884f472f6e71ab4a512"
+  },
+  {
+    "path": "terms.rsc",
+    "sha256": "c9f501537a688ae30bd18ee37baa69a9b6588177a95f0f8a6933ebb6e4a814a7"
+  }
+]
