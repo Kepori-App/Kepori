@@ -1,55 +1,55 @@
 [
   {
     "path": "404.html",
-    "sha256": "aed01305b0dd0abde6a35247a44e490dfb953ff0ce63bc89447064ede67ce228"
+    "sha256": "e52b43274087a3cffc3a015eb5d1611334183a7f18ac239e84a7bb8d656f0f5f"
   },
   {
-    "path": "_next/static/a5139a16-12cd-41b2-8bb7-18307ee760df/_buildManifest.js",
+    "path": "_next/static/233f4e16-37f2-4992-8efe-f7637720183b/_buildManifest.js",
     "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
   },
   {
-    "path": "_next/static/a5139a16-12cd-41b2-8bb7-18307ee760df/_ssgManifest.js",
+    "path": "_next/static/233f4e16-37f2-4992-8efe-f7637720183b/_ssgManifest.js",
     "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
   },
   {
-    "path": "_next/static/chunks/LegalPage-CnqVrA8b.js",
-    "sha256": "248ba13e5cb7a44c8a4402fa2de6a75b908fb4b5acaf6a731d8f4703bbc8b51a"
+    "path": "_next/static/chunks/LegalPage-BMfiDX0n.js",
+    "sha256": "49225c3f014ff9c15735d2b4ba4c252fae4ff449f747f7633622d8d98a590759"
   },
   {
-    "path": "_next/static/chunks/Website-DbCH61eL.js",
-    "sha256": "6b95b99b45aa2c1d6b9166d1b3a6feb3e4957e04101a0a47ed079c3068a776ce"
+    "path": "_next/static/chunks/Website-B-6d0v0M.js",
+    "sha256": "53026a1b06dc6d8640a6277da92e217ea683d3e09fb9450f02c3d581b055ab98"
   },
   {
-    "path": "_next/static/chunks/app-route-prefetch-policy-er6ZCmcd.js",
-    "sha256": "fe7d0adf69c50fb43c5faed11bc91a27e4aa024e24afb21f74e6609cbb348f4e"
+    "path": "_next/static/chunks/app-route-prefetch-policy-CpGwSIT6.js",
+    "sha256": "5ce67292774edb3cbd54efe4f64fc0ca6add68852af7f084c61ef5e730e37879"
   },
   {
     "path": "_next/static/chunks/framework-D_rUT4EX.js",
     "sha256": "939d0fabebb3b2f01753bb866b067d8d3384fb06da19f0e6557609d3b1a9f4f7"
   },
   {
-    "path": "_next/static/chunks/index-DEgzSZiT.js",
-    "sha256": "2ce71a5877a5dcf298a0ac773d5ffa36aed0aa1046395d06223bfa665e91a208"
+    "path": "_next/static/chunks/index-4P4WSri7.js",
+    "sha256": "6a6d8a0c7341e4d0065a6e1224f7a3d0a4f84de647f6cd9df548baff5c80606b"
   },
   {
-    "path": "_next/static/chunks/layout-segment-context-sNYYTbkH.js",
-    "sha256": "22a88c79709536ac0a49470c2f275df9024b950d018f776967ec6636d8e09bd1"
+    "path": "_next/static/chunks/layout-segment-context-D__7nvyY.js",
+    "sha256": "4fac50ba13cd44b60e27fd5a855e85107f1a4a6d264b62a0d2d87f839343560f"
   },
   {
     "path": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
   },
   {
-    "path": "_next/static/chunks/site-config-1roX4yRp.js",
-    "sha256": "b5a097a70fe873ef7a77c546731b5bcba64a0560a7e54b4b1f149bd0c00d4ed6"
+    "path": "_next/static/chunks/site-config-azthkQKC.js",
+    "sha256": "469a7a6e580606e5bf9144f27b36ded60c1c4aef029f50d69069def25326bae6"
   },
   {
     "path": "_next/static/chunks/streamed-icons-Cs-m6aYg.js",
     "sha256": "7eb2a6b44b9c0faa7300c8dd36b0fae7a35d9f65e139dd9046b3df193aa83bc8"
   },
   {
-    "path": "_next/static/css/index.BLVQyKJV.css",
-    "sha256": "0a3d79e0c7921734595fc0469d8cb0a08fccf91b44add61e494d7723e4817a1e"
+    "path": "_next/static/css/index.DFIoIu_G.css",
+    "sha256": "40c5f4980ebe14b8c06b993525f00c51675924da7df14579c1f3d15249041c01"
   },
   {
     "path": "images/app-icon.png",
@@ -68,27 +68,75 @@
     "sha256": "b88206a22382cec8eccc546a08a8a31cc24a864302ccebafdad1b4777380497f"
   },
   {
+    "path": "images/screens/ipad-en-library.png",
+    "sha256": "8d44e480bede5603e724190900c54538bd5e242c96757a61c30e323a910be7b1"
+  },
+  {
+    "path": "images/screens/ipad-en-reading.png",
+    "sha256": "7af41b5ee708be6b725af5c27f9f1604bd7475ff3031927b4e6d3a6ad65cd057"
+  },
+  {
+    "path": "images/screens/ipad-en-search.png",
+    "sha256": "25a378d00bcf01f1ffa29f7914d5760b54865dd45a72918a184835a2d3c973a0"
+  },
+  {
+    "path": "images/screens/ipad-zh-library.png",
+    "sha256": "f03e5447bd1508e1dfdfa94f3d42b9485743cedb8ba3c215a651c2fad550d227"
+  },
+  {
+    "path": "images/screens/ipad-zh-reading.png",
+    "sha256": "ccf4febc8736fbd8d0e247791aca3f89f010c29e3035f228866385cdfa2d996e"
+  },
+  {
+    "path": "images/screens/ipad-zh-search.png",
+    "sha256": "cab7adfd68c9cd01fa7fc9b1a0708601858acf3717a8e369256254169997fb17"
+  },
+  {
+    "path": "images/screens/iphone-en-library.png",
+    "sha256": "e93716fba1faad19631eef1a0d004d2d18ed45d18b652027cd334d1e9750d142"
+  },
+  {
+    "path": "images/screens/iphone-en-reading.png",
+    "sha256": "7c5c8b13efdead841ee1a80dfc214f0b158df459a374623c7cd778746b5b34ff"
+  },
+  {
+    "path": "images/screens/iphone-en-search.png",
+    "sha256": "4c4217c8b3cdc5fbe514ab0b52104acfa1acf1132b10231f5fc73931bce36e25"
+  },
+  {
+    "path": "images/screens/iphone-zh-library.png",
+    "sha256": "72c6642166bcaf4ecadc5814b80b838f8b503ae800be6cb42937dc58e4594ce5"
+  },
+  {
+    "path": "images/screens/iphone-zh-reading.png",
+    "sha256": "90bd63e7f1abeb62c8ffe968d2553d82f6f977185531c25bf63dc744ba666ca4"
+  },
+  {
+    "path": "images/screens/iphone-zh-search.png",
+    "sha256": "571ba0e0347ffee0a9786fa48bde9309c41e33e16714029a80ef9f1960cc4d73"
+  },
+  {
     "path": "index.html",
-    "sha256": "3ba34d5d5d675922475e3f2f3c1daa21824e9fcf8897344ad44fd4ebddd8868f"
+    "sha256": "9229b7bb5c629fe9771da1dfaeb550c99fd5f63d5f4f061cae1533acc2147fc3"
   },
   {
     "path": "index.rsc",
-    "sha256": "32d791121034c24b13caf3adf511278c027a1d74665f356d7b496dedbec32888"
+    "sha256": "ccb6741487a4c0f979bfb8ff712f6f5ce1ae3b2e9338ef93ea96aedd38b9c3eb"
   },
   {
     "path": "privacy.html",
-    "sha256": "85ede674db32e50b437960bea9d337feb0b2408c526ca58c20f8c525477cfdb0"
+    "sha256": "af20a0d26199b95bd7411f50bde846a1df5d4f937c5f12a8c6dbf987262d8740"
   },
   {
     "path": "privacy.rsc",
-    "sha256": "9eb738b1379056278eac140f8a1d6a630d969e0193b5920dccc64c6d56f4f64f"
+    "sha256": "0ab808184a7606d27808d8cffa5e35bc78c32d981dcc39fe1647925a91e002ee"
   },
   {
     "path": "terms.html",
-    "sha256": "7620bf3dadc8efe362c4b3e8d8303bc94caacc5dfe328408c8b243097707bec1"
+    "sha256": "6476be59b0faedf1b4361d484f64f2366e582f70a6a5d8451e7495b6a0d07057"
   },
   {
     "path": "terms.rsc",
-    "sha256": "2bd32991ec2ed2ac8f80d6951dc25fd23b15b3381a9cd546928a3608af78d84d"
+    "sha256": "edd2d27b6d8acc26b14c8fd21263ec80f31e765220fc2721c65ceb91edfd861a"
   }
 ]
