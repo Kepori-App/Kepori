@@ -52,6 +52,22 @@
     "sha256": "40c5f4980ebe14b8c06b993525f00c51675924da7df14579c1f3d15249041c01"
   },
   {
+    "path": "campaigns/current.json",
+    "sha256": "3b14d9963d693d2b38af3591796e7f6131e41f7cfbc2e66615d6c70e1dcbd62e"
+  },
+  {
+    "path": "campaigns/index.html",
+    "sha256": "2ea339ea4a82fc2c864334e401fb1191cfe7fc66ffce96d4ec20f66bffd71d8f"
+  },
+  {
+    "path": "campaigns/page.css",
+    "sha256": "33ea5cb3b3655d88be1407fc22da71f516e8a415ecc31b59684639f552851d5d"
+  },
+  {
+    "path": "campaigns/page.js",
+    "sha256": "95dcbabcd607f780a231d65adc83c341d34bc8b2becc38e3ac5a8684bd805b94"
+  },
+  {
     "path": "images/app-icon.png",
     "sha256": "51c5614912cfecb94782297512137da8484ed25129274f3e692b55b1c782bfbb"
   },
