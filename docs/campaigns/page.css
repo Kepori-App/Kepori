@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; font: -apple-system-body; }
+body { margin: 0; background: Canvas; color: CanvasText; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+main { max-width: 42rem; margin-inline: auto; padding: 1.5rem; overflow-wrap: anywhere; }
+h1 { font-size: 1.75rem; line-height: 1.3; }
+p { line-height: 1.75; white-space: pre-wrap; }
+img { display: block; width: 100%; height: auto; }
+button { font: inherit; color: CanvasText; min-height: 44px; padding: .5rem 1rem; cursor: pointer; }
+[hidden] { display: none !important; }

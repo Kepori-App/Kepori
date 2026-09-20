@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'; frame-src 'none'">
+  <title>Kepori</title>
+  <link rel="stylesheet" href="/campaigns/page.css">
+  <script src="/campaigns/page.js" defer></script>
+</head>
+<body>
+  <main>
+    <p id="status" role="status" aria-live="polite"></p>
+    <article id="campaign" hidden>
+      <img id="image" alt="" hidden>
+      <h1 id="title"></h1>
+      <div id="body"></div>
+    </article>
+    <button id="retry" type="button" hidden></button>
+  </main>
+</body>
+</html>
