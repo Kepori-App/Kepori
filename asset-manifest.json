@@ -68,6 +68,18 @@
     "sha256": "95dcbabcd607f780a231d65adc83c341d34bc8b2becc38e3ac5a8684bd805b94"
   },
   {
+    "path": "campaigns/share/index.html",
+    "sha256": "3b4b1fb8c0e36b9c6513fec5dbee1cd70ef82c498ac6d0d41f569239c1a9fbe4"
+  },
+  {
+    "path": "campaigns/share/share.css",
+    "sha256": "ef739534e6368bc16d4776a0c4cc5f6a6842dc09205271bd99311957974d4e2c"
+  },
+  {
+    "path": "campaigns/share/share.js",
+    "sha256": "8073355551f14b7fe1d2b590b24c2b3a4e2920a54b93b4d3afd6adb24f90c88b"
+  },
+  {
     "path": "images/app-icon.png",
     "sha256": "51c5614912cfecb94782297512137da8484ed25129274f3e692b55b1c782bfbb"
   },
