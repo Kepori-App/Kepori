@@ -1,4 +1,12 @@
 {
   "schemaVersion": 1,
-  "campaign": null
+  "campaign": {
+    "id": "share-pro",
+    "titles": {
+      "zhHans": "分享领 Pro",
+      "en": "Share for Pro"
+    },
+    "url": "https://kepori.app/campaigns/share/",
+    "endsAt": "2026-11-11T16:00:00Z"
+  }
 }

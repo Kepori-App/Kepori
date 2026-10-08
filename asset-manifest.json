@@ -53,7 +53,7 @@
   },
   {
     "path": "campaigns/current.json",
-    "sha256": "3b14d9963d693d2b38af3591796e7f6131e41f7cfbc2e66615d6c70e1dcbd62e"
+    "sha256": "2cb8fc51807b958fcd6a3c7d3715580ba7a75694b3607d2518ba16f7c2d46c46"
   },
   {
     "path": "campaigns/index.html",
@@ -69,15 +69,23 @@
   },
   {
     "path": "campaigns/share/index.html",
-    "sha256": "3b4b1fb8c0e36b9c6513fec5dbee1cd70ef82c498ac6d0d41f569239c1a9fbe4"
+    "sha256": "975a7a2698b9ca79de37383ff27be35ca6e35698e310d36960b13cc5614da1de"
+  },
+  {
+    "path": "campaigns/share/share-copy.js",
+    "sha256": "2aff571a1b688517d5a00d24edcf15cd4611581b4f79009c374a7ea3c05f81ea"
+  },
+  {
+    "path": "campaigns/share/share-status.js",
+    "sha256": "bdbd5ff8ea3746480959e55d4f6cbd7388b6c69242d6844328c22a6fa6cd0d64"
   },
   {
     "path": "campaigns/share/share.css",
-    "sha256": "ef739534e6368bc16d4776a0c4cc5f6a6842dc09205271bd99311957974d4e2c"
+    "sha256": "103ed179395e72033cf8d6857e5f68c0c87eac0d4318842a47fe5c26618f8967"
   },
   {
     "path": "campaigns/share/share.js",
-    "sha256": "8073355551f14b7fe1d2b590b24c2b3a4e2920a54b93b4d3afd6adb24f90c88b"
+    "sha256": "d56938f8f2c4c3e542539a4ec20333ca901e6efa3fc7343a861b016b8fbd9c1a"
   },
   {
     "path": "images/app-icon.png",
