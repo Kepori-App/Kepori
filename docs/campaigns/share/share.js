@@ -32,9 +32,11 @@ function render() {
   document.querySelectorAll('[data-likes]').forEach(el => { el.textContent = format('likes', { likes: number(el.dataset.likes) }); });
   document.querySelectorAll('[data-step-title]').forEach(el => { el.textContent = shareCopy[lang].steps[el.dataset.stepTitle][0]; });
   document.querySelectorAll('[data-step-detail]').forEach(el => { el.textContent = shareCopy[lang].steps[el.dataset.stepDetail][1]; });
-  $('rules-list').replaceChildren(...shareCopy[lang].rules.map(rule => {
-    const item = document.createElement('li'); item.textContent = rule; return item;
-  }));
+  for (const [id, values] of [['rules-list', shareCopy[lang].rules], ['ideas-list', shareCopy[lang].ideas]]) {
+    $(id).replaceChildren(...values.map(value => {
+      const item = document.createElement('li'); item.textContent = value; return item;
+    }));
+  }
   $('language').setAttribute('aria-label', format('languageLabel'));
   $('rewards').setAttribute('aria-label', format('groupLabel'));
   $('contacts').setAttribute('aria-label', format('contactGroup'));

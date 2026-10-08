@@ -78,6 +78,7 @@ h1 { margin: 0; font-size: 2.75rem; line-height: 1.2; letter-spacing: -0.045em; 
 .steps h3 { font-size: var(--body-size); font-weight: 600; margin: 0 0 4px; }
 .steps p { color: var(--muted); font-size: var(--small-size); margin: 0; text-wrap: pretty; }
 .rules { border-block: 1px solid var(--line); }
+.rules + .rules { border-top: 0; }
 .rules summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 52px; list-style: none; font-size: var(--small-size); }
 .rules summary::-webkit-details-marker { display: none; }
 .rules summary svg { width: 16px; height: 16px; }

@@ -5,15 +5,23 @@ export const shareCopy = {
     retry: '重新检查',
     pageTitle: '分享 Kepori，收获 Pro', languageLabel: '选择语言',
     eyebrow: 'Kepori 分享计划', headlineFirst: '把喜欢，', headlineSecond: '分享出去。',
-    intro: '发布介绍 Kepori 的作品，让更多人发现更好的收藏方式。',
+    intro: '分享一次真实体验，让更多人认识 Kepori。用一份 Pro 福利，感谢你的推荐。',
     rewardsTitle: '点赞，换一份心意', rewardsContext: '单篇作品', groupLabel: '选择奖励', likes: '{likes} 赞',
     monthTitle: '1 个月 Pro', monthPrice: '免费领取', lifetimeTitle: '终身 Pro', lifetimePriceNote: '优惠解锁',
     monthRequest: '免费 1 个月 Kepori Pro', lifetimeRequest: '{price} 终身 Kepori Pro',
     rewardHint: '可以先领一个月，达到 50 赞后再享终身优惠。', stepsTitle: '三步，领取奖励',
+    entryHint: '参与入口：Kepori 侧边栏 → 分享领 Pro',
+    ideasTitle: '还没想好怎么分享？',
+    thanks: '谢谢你愿意分享。你的真实体验，就是 Kepori 最好的介绍。',
+    ideas: [
+      '把散落的收藏放在一起：我的 Kepori 使用体验',
+      '收藏不再吃灰：分享你的阅读和整理习惯',
+      '收藏很多，也能找回：试试 Kepori 的本地搜索'
+    ],
     steps: [
-      ['分享你的体验', '在社交媒体公开发布介绍 Kepori 的原创图文或视频，注明 App 名称。'],
+      ['分享你的体验', '公开发布介绍 Kepori 的原创图文或视频，注明 App 名称。可以分享你的使用场景，配上 App 截图。'],
       ['收获真实点赞', '单篇达到 20 或 50 赞，保留作品链接和能看到点赞数的截图。'],
-      ['核验后兑换', '联系运营提交材料。核验后领取专属兑换码，回到 Kepori Pro 页面通过 App Store 兑换。']
+      ['核验后兑换', '打开 Kepori 侧边栏的「分享领 Pro」，按页内联系方式发送作品链接和点赞截图。核验后，通过 App Store 兑换。']
     ],
     rulesTitle: '参与须知', rules: [
       '作品须原创、公开可访问，并介绍 Kepori。截图或录屏请隐藏私人信息。',
@@ -39,15 +47,23 @@ export const shareCopy = {
     retry: '重新確認',
     pageTitle: '分享 Kepori，獲得 Pro', languageLabel: '選擇語言',
     eyebrow: 'Kepori 分享計畫', headlineFirst: '喜歡的事物，', headlineSecond: '值得分享。',
-    intro: '發表介紹 Kepori 的作品，讓更多人發現好用的收藏方式。',
+    intro: '分享真實的使用心得，讓更多人認識 Kepori。這份 Pro 優惠，是我們對你推薦的感謝。',
     rewardsTitle: '用按讚，換一份心意', rewardsContext: '單篇作品', groupLabel: '選擇獎勵', likes: '{likes} 個讚',
     monthTitle: '1 個月 Pro', monthPrice: '免費領取', lifetimeTitle: '終身 Pro', lifetimePriceNote: '優惠解鎖',
     monthRequest: '免費 1 個月 Kepori Pro', lifetimeRequest: '{price} 終身 Kepori Pro',
     rewardHint: '可以先領一個月，達到 50 個讚後再申請終身優惠。', stepsTitle: '三步，領取獎勵',
+    entryHint: '參加入口：Kepori 側邊欄 → 分享领 Pro',
+    ideasTitle: '還在想要分享什麼？',
+    thanks: '謝謝你願意分享。真實的使用心得，就是 Kepori 最好的介紹。',
+    ideas: [
+      '把零散的收藏整理在一起：我的 Kepori 使用心得',
+      '收藏之後，真的會看：分享你的閱讀與整理習慣',
+      '收藏再多也找得到：試試 Kepori 的本機搜尋'
+    ],
     steps: [
-      ['分享使用心得', '在社群平台公開發表介紹 Kepori 的原創圖文或影片，註明 App 名稱。'],
+      ['分享使用心得', '公開發表介紹 Kepori 的原創圖文或影片，註明 App 名稱。可以分享使用情境，搭配 App 截圖。'],
       ['累積真實按讚', '單篇達到 20 或 50 個讚，保留作品連結及顯示按讚數的截圖。'],
-      ['審核後兌換', '聯絡營運人員提交資料。審核通過後取得專屬兌換碼，回到 Kepori Pro 頁面透過 App Store 兌換。']
+      ['審核後兌換', '打開 Kepori 側邊欄的「分享领 Pro」，依頁面聯絡方式傳送作品連結及按讚數截圖。審核後透過 App Store 兌換。']
     ],
     rulesTitle: '參加須知', rules: [
       '作品須為原創、可公開瀏覽，並介紹 Kepori。截圖或錄影請遮蔽私人資訊。',
@@ -73,15 +89,23 @@ export const shareCopy = {
     retry: 'Check again',
     pageTitle: 'Share Kepori. Enjoy Pro.', languageLabel: 'Choose language',
     eyebrow: 'Kepori sharing program', headlineFirst: 'Love it.', headlineSecond: 'Share it.',
-    intro: 'Introduce Kepori in a post and help more people discover a better way to keep what matters.',
+    intro: 'Share an honest look at how you use Kepori. These Pro rewards are our way of thanking you for the recommendation.',
     rewardsTitle: 'A thank-you for sharing', rewardsContext: 'One public post', groupLabel: 'Choose a reward', likes: '{likes} likes',
     monthTitle: '1 month of Pro', monthPrice: 'On us', lifetimeTitle: 'Lifetime Pro', lifetimePriceNote: 'Special price',
     monthRequest: '1 free month of Kepori Pro', lifetimeRequest: 'lifetime Kepori Pro for {price}',
     rewardHint: 'Claim the free month first, then apply for the lifetime offer when you reach 50 likes.', stepsTitle: 'Three steps to Pro',
+    entryHint: 'In the app: Kepori sidebar → Share for Pro',
+    ideasTitle: 'Need a little inspiration?',
+    thanks: 'Thank you for sharing. Your own experience is the best introduction to Kepori.',
+    ideas: [
+      'Bringing scattered saves together: how I use Kepori',
+      'From saving to reading: my collection habits',
+      'Finding what I saved with Kepori’s on-device search'
+    ],
     steps: [
-      ['Share your experience', 'Publish an original, public social media post or video introducing Kepori. Include the app name.'],
+      ['Share your experience', 'Publish an original, public post or video introducing Kepori and include the app name. You could show a real use case with app screenshots.'],
       ['Earn real likes', 'Reach 20 or 50 likes on a single post. Keep its public link and a screenshot showing the like count.'],
-      ['Verify and redeem', 'Send the details to our team. After review, use your unique offer code on the Kepori Pro screen to redeem through the App Store.']
+      ['Verify and redeem', 'Open Share for Pro in the Kepori sidebar. Use the contact details there to send your post link and like-count screenshot. After review, redeem through the App Store.']
     ],
     rulesTitle: 'Before you take part', rules: [
       'Your post must be original, public and introduce Kepori. Hide personal information in screenshots or recordings.',
@@ -107,15 +131,23 @@ export const shareCopy = {
     retry: '再確認',
     pageTitle: 'Kepori を紹介して Pro を楽しもう', languageLabel: '言語を選択',
     eyebrow: 'Kepori シェアプログラム', headlineFirst: '好きなものを、', headlineSecond: '誰かにも。',
-    intro: 'Kepori を紹介する投稿で、大切なものを残す新しい方法を広めませんか。',
+    intro: 'Kepori を使った率直な感想を、誰かにも。紹介してくださる方へのお礼に、Pro の特典をご用意しました。',
     rewardsTitle: '紹介のお礼に Pro を', rewardsContext: '1 件の公開投稿', groupLabel: '特典を選択', likes: '{likes} いいね',
     monthTitle: 'Pro 1 か月', monthPrice: '無料でもらう', lifetimeTitle: 'Pro 永久版', lifetimePriceNote: '特別価格',
     monthRequest: 'Kepori Pro 1 か月無料', lifetimeRequest: '{price} の Kepori Pro 永久版',
     rewardHint: '先に 1 か月無料を受け取り、50 いいね達成後に永久版の優待を申請できます。', stepsTitle: '3 ステップで Pro に',
+    entryHint: 'アプリ内：Kepori のサイドバー → Share for Pro',
+    ideasTitle: '何を投稿しようか迷ったら',
+    thanks: '紹介してくださり、ありがとうございます。実際に使った感想が、Kepori のいちばんの紹介になります。',
+    ideas: [
+      '散らばったお気に入りを一か所に：私の Kepori 活用法',
+      '保存したら、読み返す：私のコレクション習慣',
+      '保存したものを見つける：Kepori の端末内検索'
+    ],
     steps: [
-      ['使った感想をシェア', 'Kepori を紹介するオリジナルの画像付き投稿や動画を SNS で公開し、アプリ名を記載してください。'],
+      ['使った感想をシェア', 'Kepori を紹介するオリジナルの画像付き投稿や動画を公開し、アプリ名を記載してください。アプリのスクリーンショットで普段の使い方を紹介するのもおすすめです。'],
       ['いいねを集める', '1 件の投稿で 20 または 50 いいねを達成。公開リンクと、いいね数が分かるスクリーンショットを保存します。'],
-      ['確認後に引き換える', '運営に資料を送信してください。確認後に個別コードをお渡しします。Kepori Pro 画面から App Store で引き換えます。']
+      ['確認後に引き換える', 'Kepori のサイドバーから「Share for Pro」を開き、記載の連絡先へ投稿リンクといいね数の画像を送信します。確認後、App Store で引き換えます。']
     ],
     rulesTitle: '参加にあたって', rules: [
       'Kepori を紹介するオリジナルの公開投稿が対象です。スクリーンショットや録画の個人情報は隠してください。',
@@ -141,15 +173,23 @@ export const shareCopy = {
     retry: '다시 확인',
     pageTitle: 'Kepori를 소개하고 Pro를 만나보세요', languageLabel: '언어 선택',
     eyebrow: 'Kepori 공유 프로그램', headlineFirst: '좋아하는 것을,', headlineSecond: '함께 나눠요.',
-    intro: 'Kepori를 소개하는 게시물로 더 많은 사람에게 소중한 것을 보관하는 방법을 알려주세요.',
+    intro: 'Kepori를 직접 사용한 경험을 나눠 주세요. 추천해 주신 마음에 감사하며 Pro 혜택을 준비했어요.',
     rewardsTitle: '공유에 대한 작은 선물', rewardsContext: '공개 게시물 1개', groupLabel: '혜택 선택', likes: '좋아요 {likes}개',
     monthTitle: 'Pro 1개월', monthPrice: '무료로 받기', lifetimeTitle: 'Pro 평생 이용', lifetimePriceNote: '특별 가격',
     monthRequest: 'Kepori Pro 1개월 무료', lifetimeRequest: '{price} Kepori Pro 평생 이용 혜택',
     rewardHint: '먼저 1개월 무료 혜택을 받고, 좋아요 50개 달성 후 평생 이용 할인을 신청할 수 있어요.', stepsTitle: '세 단계로 혜택 받기',
+    entryHint: '앱 내 경로: Kepori 사이드바 → Share for Pro',
+    ideasTitle: '어떤 내용을 공유할지 고민되나요?',
+    thanks: '경험을 나눠 주셔서 감사합니다. 직접 써 본 이야기가 Kepori를 가장 잘 소개해 줍니다.',
+    ideas: [
+      '흩어진 저장물을 한곳에: 나의 Kepori 사용기',
+      '저장한 뒤 다시 읽기: 나의 수집 습관',
+      '저장한 콘텐츠 찾기: Kepori의 기기 내 검색'
+    ],
     steps: [
-      ['사용 경험 공유하기', 'Kepori를 소개하는 직접 만든 글·이미지 또는 영상을 소셜 미디어에 공개하고 앱 이름을 적어주세요.'],
+      ['사용 경험 공유하기', 'Kepori를 소개하는 직접 만든 글·이미지나 영상을 공개하고 앱 이름을 적어 주세요. 앱 화면 캡처로 실제 사용 사례를 보여 주셔도 좋아요.'],
       ['진짜 좋아요 모으기', '게시물 1개에서 좋아요 20개 또는 50개를 달성하세요. 공개 링크와 좋아요 수가 보이는 화면을 캡처해두세요.'],
-      ['확인 후 코드 사용하기', '운영팀에 자료를 보내주세요. 확인 후 개별 코드를 드립니다. Kepori Pro 화면에서 App Store를 통해 사용하세요.']
+      ['확인 후 코드 사용하기', 'Kepori 사이드바에서 Share for Pro를 열고 안내된 연락처로 게시물 링크와 좋아요 수 캡처를 보내 주세요. 확인 후 App Store에서 혜택을 받을 수 있어요.']
     ],
     rulesTitle: '참여 안내', rules: [
       'Kepori를 소개하는 직접 제작한 공개 게시물이어야 합니다. 캡처나 녹화에 담긴 개인정보는 가려주세요.',
@@ -175,15 +215,23 @@ export const shareCopy = {
     retry: 'Comprobar de nuevo',
     pageTitle: 'Comparte Kepori y disfruta de Pro', languageLabel: 'Elegir idioma',
     eyebrow: 'Programa de difusión de Kepori', headlineFirst: 'Si te gusta,', headlineSecond: 'compártelo.',
-    intro: 'Presenta Kepori en una publicación y ayuda a más personas a guardar lo que les importa.',
+    intro: 'Comparte tu experiencia real con Kepori. Estas ventajas de Pro son nuestra forma de agradecerte la recomendación.',
     rewardsTitle: 'Un detalle por compartir', rewardsContext: 'Una publicación pública', groupLabel: 'Elegir recompensa', likes: '{likes} Me gusta',
     monthTitle: '1 mes de Pro', monthPrice: 'Gratis', lifetimeTitle: 'Pro de por vida', lifetimePriceNote: 'Precio especial',
     monthRequest: '1 mes gratis de Kepori Pro', lifetimeRequest: 'Kepori Pro de por vida por {price}',
     rewardHint: 'Puedes recibir primero el mes gratis y solicitar la oferta de por vida al llegar a 50 Me gusta.', stepsTitle: 'Pro en tres pasos',
+    entryHint: 'En la app: barra lateral de Kepori → Share for Pro',
+    ideasTitle: '¿Buscas ideas para tu publicación?',
+    thanks: 'Gracias por compartir. Tu experiencia es la mejor forma de presentar Kepori.',
+    ideas: [
+      'Mis contenidos guardados, todos juntos: así uso Kepori',
+      'De guardar a leer: mis hábitos de colección',
+      'Cómo encuentro lo que guardé con la búsqueda local de Kepori'
+    ],
     steps: [
-      ['Comparte tu experiencia', 'Publica en redes sociales un contenido o vídeo original y público que presente Kepori. Incluye el nombre de la app.'],
+      ['Comparte tu experiencia', 'Publica un contenido o vídeo original y público sobre Kepori e incluye el nombre de la app. Puedes mostrar un caso de uso real con capturas de pantalla.'],
       ['Consigue Me gusta reales', 'Alcanza 20 o 50 Me gusta en una sola publicación. Guarda el enlace público y una captura con el recuento.'],
-      ['Verifica y canjea', 'Envía los datos al equipo. Tras la revisión, recibirás un código único para canjear en App Store desde la pantalla Kepori Pro.']
+      ['Verifica y canjea', 'Abre Share for Pro en la barra lateral de Kepori. Envía el enlace y la captura de los Me gusta por uno de los canales indicados. Tras la revisión, canjea la ventaja en App Store.']
     ],
     rulesTitle: 'Antes de participar', rules: [
       'La publicación debe ser original, pública y presentar Kepori. Oculta los datos personales en las capturas o grabaciones.',
@@ -209,15 +257,23 @@ export const shareCopy = {
     retry: 'Vérifier à nouveau',
     pageTitle: 'Partagez Kepori, profitez de Pro', languageLabel: 'Choisir la langue',
     eyebrow: 'Programme de partage Kepori', headlineFirst: 'Vous aimez ?', headlineSecond: 'Partagez.',
-    intro: 'Présentez Kepori dans une publication et faites découvrir une autre façon de garder ce qui compte.',
+    intro: 'Partagez votre expérience de Kepori. Ces avantages Pro sont notre façon de vous remercier pour votre recommandation.',
     rewardsTitle: 'Un merci pour votre partage', rewardsContext: 'Une publication publique', groupLabel: 'Choisir une récompense', likes: '{likes} mentions J’aime',
     monthTitle: '1 mois de Pro', monthPrice: 'Offert', lifetimeTitle: 'Pro à vie', lifetimePriceNote: 'Tarif spécial',
     monthRequest: '1 mois gratuit de Kepori Pro', lifetimeRequest: 'Kepori Pro à vie à {price}',
     rewardHint: 'Recevez d’abord le mois offert, puis demandez l’offre à vie une fois les 50 mentions J’aime atteintes.', stepsTitle: 'Pro en trois étapes',
+    entryHint: 'Dans l’app : barre latérale Kepori → Share for Pro',
+    ideasTitle: 'Besoin d’une idée pour votre publication ?',
+    thanks: 'Merci de partager votre expérience. C’est la meilleure façon de faire découvrir Kepori.',
+    ideas: [
+      'Mes contenus enregistrés, enfin réunis : comment j’utilise Kepori',
+      'De la sauvegarde à la lecture : mes habitudes',
+      'Retrouver mes contenus grâce à la recherche locale de Kepori'
+    ],
     steps: [
-      ['Partagez votre expérience', 'Publiez sur les réseaux un contenu ou une vidéo originale et publique présentant Kepori. Mentionnez le nom de l’app.'],
+      ['Partagez votre expérience', 'Publiez un contenu ou une vidéo originale et publique présentant Kepori, en citant le nom de l’app. Vous pouvez illustrer un usage concret avec des captures d’écran.'],
       ['Obtenez de vrais J’aime', 'Atteignez 20 ou 50 mentions J’aime sur une seule publication. Conservez le lien public et une capture du compteur.'],
-      ['Faites vérifier et utilisez le code', 'Envoyez les éléments à notre équipe. Après vérification, utilisez votre code personnel dans App Store depuis l’écran Kepori Pro.']
+      ['Faites vérifier et utilisez le code', 'Ouvrez Share for Pro dans la barre latérale de Kepori. Envoyez le lien et la capture des mentions J’aime par un canal indiqué. Après vérification, utilisez votre avantage dans App Store.']
     ],
     rulesTitle: 'Avant de participer', rules: [
       'La publication doit être originale, publique et présenter Kepori. Masquez les informations personnelles dans les captures et vidéos.',
@@ -243,15 +299,23 @@ export const shareCopy = {
     retry: 'Erneut prüfen',
     pageTitle: 'Kepori teilen und Pro genießen', languageLabel: 'Sprache wählen',
     eyebrow: 'Kepori teilen', headlineFirst: 'Was du magst,', headlineSecond: 'teile weiter.',
-    intro: 'Stelle Kepori in einem Beitrag vor und zeige anderen, wie sie bewahren können, was ihnen wichtig ist.',
+    intro: 'Erzähle, wie du Kepori wirklich nutzt. Mit diesen Pro-Vorteilen möchten wir uns für deine Empfehlung bedanken.',
     rewardsTitle: 'Ein Dankeschön fürs Teilen', rewardsContext: 'Ein öffentlicher Beitrag', groupLabel: 'Prämie wählen', likes: '{likes} Likes',
     monthTitle: '1 Monat Pro', monthPrice: 'Kostenlos', lifetimeTitle: 'Pro auf Lebenszeit', lifetimePriceNote: 'Sonderpreis',
     monthRequest: '1 kostenlosen Monat Kepori Pro', lifetimeRequest: 'Kepori Pro auf Lebenszeit für {price}',
     rewardHint: 'Du kannst zuerst den kostenlosen Monat nutzen und ab 50 Likes das Angebot auf Lebenszeit beantragen.', stepsTitle: 'In drei Schritten zu Pro',
+    entryHint: 'In der App: Kepori-Seitenleiste → Share for Pro',
+    ideasTitle: 'Noch auf der Suche nach einer Idee?',
+    thanks: 'Danke, dass du deine Erfahrung teilst. So lernen andere Kepori am besten kennen.',
+    ideas: [
+      'Meine gespeicherten Inhalte an einem Ort: so nutze ich Kepori',
+      'Vom Speichern zum Lesen: meine Sammelgewohnheiten',
+      'Gespeichertes wiederfinden mit der lokalen Suche von Kepori'
+    ],
     steps: [
-      ['Teile deine Erfahrung', 'Veröffentliche einen eigenen, öffentlichen Beitrag oder ein Video über Kepori in sozialen Medien. Nenne den App-Namen.'],
+      ['Teile deine Erfahrung', 'Veröffentliche einen eigenen, öffentlichen Beitrag oder ein Video über Kepori und nenne den App-Namen. Du kannst ein echtes Anwendungsbeispiel mit App-Screenshots zeigen.'],
       ['Sammle echte Likes', 'Erreiche 20 oder 50 Likes mit einem einzelnen Beitrag. Bewahre den öffentlichen Link und einen Screenshot der Like-Zahl auf.'],
-      ['Prüfen lassen und einlösen', 'Sende die Angaben an unser Team. Nach der Prüfung erhältst du einen persönlichen Code, den du über die Kepori-Pro-Seite im App Store einlösen kannst.']
+      ['Prüfen lassen und einlösen', 'Öffne Share for Pro in der Kepori-Seitenleiste. Sende den Beitragslink und den Screenshot der Likes an einen der angegebenen Kontakte. Nach der Prüfung erfolgt die Einlösung im App Store.']
     ],
     rulesTitle: 'Teilnahmehinweise', rules: [
       'Der Beitrag muss selbst erstellt, öffentlich zugänglich sein und Kepori vorstellen. Blende private Daten in Screenshots und Aufnahmen aus.',
@@ -277,15 +341,23 @@ export const shareCopy = {
     retry: 'Verificar novamente',
     pageTitle: 'Compartilhe Kepori e aproveite o Pro', languageLabel: 'Escolher idioma',
     eyebrow: 'Programa de divulgação Kepori', headlineFirst: 'Gostou?', headlineSecond: 'Compartilhe.',
-    intro: 'Apresente o Kepori em uma publicação e ajude mais pessoas a guardar o que importa.',
+    intro: 'Compartilhe como você realmente usa o Kepori. Esses benefícios Pro são nossa forma de agradecer pela recomendação.',
     rewardsTitle: 'Um agradecimento por compartilhar', rewardsContext: 'Uma publicação pública', groupLabel: 'Escolher benefício', likes: '{likes} curtidas',
     monthTitle: '1 mês de Pro', monthPrice: 'Grátis', lifetimeTitle: 'Pro vitalício', lifetimePriceNote: 'Preço especial',
     monthRequest: '1 mês grátis de Kepori Pro', lifetimeRequest: 'Kepori Pro vitalício por {price}',
     rewardHint: 'Receba o mês grátis primeiro e solicite a oferta vitalícia ao chegar a 50 curtidas.', stepsTitle: 'Três passos para o Pro',
+    entryHint: 'No app: barra lateral do Kepori → Share for Pro',
+    ideasTitle: 'Precisa de uma ideia para publicar?',
+    thanks: 'Obrigado por compartilhar. Sua experiência é a melhor apresentação do Kepori.',
+    ideas: [
+      'Meus conteúdos salvos em um só lugar: como uso o Kepori',
+      'De salvar a ler: meus hábitos de coleção',
+      'Como encontro meus conteúdos com a busca local do Kepori'
+    ],
     steps: [
-      ['Compartilhe sua experiência', 'Publique nas redes sociais um conteúdo ou vídeo original e público apresentando o Kepori. Inclua o nome do app.'],
+      ['Compartilhe sua experiência', 'Publique um conteúdo ou vídeo original e público sobre o Kepori, incluindo o nome do app. Você pode mostrar um uso real com capturas de tela.'],
       ['Receba curtidas reais', 'Alcance 20 ou 50 curtidas em uma única publicação. Guarde o link público e uma captura com a contagem.'],
-      ['Confirme e resgate', 'Envie os dados à equipe. Após a análise, use seu código exclusivo na tela Kepori Pro para resgatar o benefício pela App Store.']
+      ['Confirme e resgate', 'Abra Share for Pro na barra lateral do Kepori. Envie o link e a captura das curtidas por um dos contatos indicados. Após a análise, resgate pela App Store.']
     ],
     rulesTitle: 'Antes de participar', rules: [
       'A publicação deve ser original, pública e apresentar o Kepori. Oculte dados pessoais nas capturas ou gravações.',
@@ -311,15 +383,23 @@ export const shareCopy = {
     retry: 'Verifica di nuovo',
     pageTitle: 'Condividi Kepori e scopri Pro', languageLabel: 'Scegli la lingua',
     eyebrow: 'Programma di condivisione Kepori', headlineFirst: 'Ti piace?', headlineSecond: 'Condividilo.',
-    intro: 'Presenta Kepori in un post e aiuta altre persone a conservare ciò che conta.',
+    intro: 'Racconta come usi davvero Kepori. Questi vantaggi Pro sono il nostro modo di ringraziarti per il consiglio.',
     rewardsTitle: 'Un grazie per la condivisione', rewardsContext: 'Un post pubblico', groupLabel: 'Scegli un premio', likes: '{likes} Mi piace',
     monthTitle: '1 mese di Pro', monthPrice: 'Gratis', lifetimeTitle: 'Pro a vita', lifetimePriceNote: 'Prezzo speciale',
     monthRequest: '1 mese gratuito di Kepori Pro', lifetimeRequest: 'Kepori Pro a vita a {price}',
     rewardHint: 'Puoi ricevere prima il mese gratuito e richiedere l’offerta a vita una volta raggiunti 50 Mi piace.', stepsTitle: 'Pro in tre passi',
+    entryHint: 'Nell’app: barra laterale di Kepori → Share for Pro',
+    ideasTitle: 'Ti serve un’idea per il tuo post?',
+    thanks: 'Grazie per aver condiviso la tua esperienza. È il modo migliore per far conoscere Kepori.',
+    ideas: [
+      'I miei contenuti salvati, tutti insieme: come uso Kepori',
+      'Dal salvataggio alla lettura: le mie abitudini',
+      'Ritrovare i contenuti con la ricerca locale di Kepori'
+    ],
     steps: [
-      ['Condividi la tua esperienza', 'Pubblica sui social un contenuto o un video originale e pubblico che presenti Kepori. Indica il nome dell’app.'],
+      ['Condividi la tua esperienza', 'Pubblica un post o video originale e pubblico su Kepori e cita il nome dell’app. Puoi mostrare un utilizzo concreto con screenshot dell’app.'],
       ['Raccogli Mi piace autentici', 'Raggiungi 20 o 50 Mi piace su un singolo post. Conserva il link pubblico e uno screenshot con il conteggio.'],
-      ['Verifica e riscatta', 'Invia i dettagli al team. Dopo la verifica, usa il tuo codice personale nella schermata Kepori Pro per riscattarlo tramite App Store.']
+      ['Verifica e riscatta', 'Apri Share for Pro nella barra laterale di Kepori. Invia il link e lo screenshot dei Mi piace a uno dei contatti indicati. Dopo la verifica, riscatta il vantaggio nell’App Store.']
     ],
     rulesTitle: 'Prima di partecipare', rules: [
       'Il post deve essere originale, pubblico e presentare Kepori. Nascondi i dati personali negli screenshot e nelle registrazioni.',
@@ -345,15 +425,23 @@ export const shareCopy = {
     retry: 'Periksa lagi',
     pageTitle: 'Bagikan Kepori, nikmati Pro', languageLabel: 'Pilih bahasa',
     eyebrow: 'Program berbagi Kepori', headlineFirst: 'Suka Kepori?', headlineSecond: 'Bagikan ceritamu.',
-    intro: 'Kenalkan Kepori lewat unggahanmu dan bantu orang lain menemukan cara menyimpan hal yang berharga.',
+    intro: 'Bagikan pengalaman nyata memakai Kepori. Hadiah Pro ini adalah ucapan terima kasih kami atas rekomendasimu.',
     rewardsTitle: 'Terima kasih sudah berbagi', rewardsContext: 'Satu unggahan publik', groupLabel: 'Pilih hadiah', likes: '{likes} suka',
     monthTitle: 'Pro 1 bulan', monthPrice: 'Gratis', lifetimeTitle: 'Pro seumur hidup', lifetimePriceNote: 'Harga khusus',
     monthRequest: 'Kepori Pro gratis selama 1 bulan', lifetimeRequest: 'Kepori Pro seumur hidup seharga {price}',
     rewardHint: 'Ambil hadiah satu bulan dahulu, lalu ajukan penawaran seumur hidup setelah mencapai 50 suka.', stepsTitle: 'Tiga langkah menuju Pro',
+    entryHint: 'Di aplikasi: bilah samping Kepori → Share for Pro',
+    ideasTitle: 'Butuh ide untuk postingan?',
+    thanks: 'Terima kasih sudah berbagi. Pengalamanmu adalah cara terbaik untuk memperkenalkan Kepori.',
+    ideas: [
+      'Menyatukan konten simpanan: caraku memakai Kepori',
+      'Dari menyimpan ke membaca: kebiasaan koleksiku',
+      'Menemukan simpanan lewat pencarian lokal Kepori'
+    ],
     steps: [
-      ['Bagikan pengalamanmu', 'Terbitkan unggahan atau video orisinal dan publik yang memperkenalkan Kepori di media sosial. Cantumkan nama aplikasi.'],
+      ['Bagikan pengalamanmu', 'Buat postingan atau video orisinal dan publik yang memperkenalkan Kepori, serta cantumkan nama aplikasi. Kamu bisa menunjukkan penggunaan nyata dengan tangkapan layar aplikasi.'],
       ['Dapatkan suka asli', 'Raih 20 atau 50 suka pada satu unggahan. Simpan tautan publik dan tangkapan layar yang menampilkan jumlah suka.'],
-      ['Verifikasi dan tukarkan', 'Kirim materi ke tim kami. Setelah diperiksa, gunakan kode khususmu dari halaman Kepori Pro untuk menukarkan hadiah melalui App Store.']
+      ['Verifikasi dan tukarkan', 'Buka Share for Pro di bilah samping Kepori. Kirim tautan postingan dan tangkapan layar jumlah suka melalui kontak yang tersedia. Setelah diperiksa, tukarkan lewat App Store.']
     ],
     rulesTitle: 'Ketentuan partisipasi', rules: [
       'Unggahan harus orisinal, dapat diakses publik, dan memperkenalkan Kepori. Sembunyikan informasi pribadi dalam tangkapan layar atau rekaman.',
@@ -379,15 +467,23 @@ export const shareCopy = {
     retry: 'ตรวจสอบอีกครั้ง',
     pageTitle: 'แชร์ Kepori แล้วรับ Pro', languageLabel: 'เลือกภาษา',
     eyebrow: 'กิจกรรมแชร์ Kepori', headlineFirst: 'ชอบแล้ว', headlineSecond: 'แบ่งปันกัน',
-    intro: 'โพสต์แนะนำ Kepori เพื่อให้คนอื่นได้รู้จักวิธีเก็บสิ่งดี ๆ ไว้กับตัว',
+    intro: 'แบ่งปันประสบการณ์ใช้ Kepori จริงของคุณ สิทธิ์ Pro นี้เป็นคำขอบคุณจากเราสำหรับการแนะนำแอป',
     rewardsTitle: 'ของขอบคุณสำหรับการแชร์', rewardsContext: 'โพสต์สาธารณะหนึ่งโพสต์', groupLabel: 'เลือกรางวัล', likes: '{likes} ไลก์',
     monthTitle: 'Pro 1 เดือน', monthPrice: 'รับฟรี', lifetimeTitle: 'Pro ตลอดชีพ', lifetimePriceNote: 'ราคาพิเศษ',
     monthRequest: 'Kepori Pro ฟรี 1 เดือน', lifetimeRequest: 'Kepori Pro ตลอดชีพในราคา {price}',
     rewardHint: 'รับสิทธิ์ฟรีหนึ่งเดือนก่อนได้ แล้วขอสิทธิ์ราคาพิเศษตลอดชีพเมื่อครบ 50 ไลก์', stepsTitle: 'รับ Pro ในสามขั้นตอน',
+    entryHint: 'ในแอป: แถบด้านข้าง Kepori → Share for Pro',
+    ideasTitle: 'ยังคิดไม่ออกว่าจะแชร์อะไรดี?',
+    thanks: 'ขอบคุณที่แบ่งปัน ประสบการณ์จริงของคุณคือการแนะนำ Kepori ที่ดีที่สุด',
+    ideas: [
+      'รวมสิ่งที่บันทึกไว้ให้เป็นที่เดียว: ฉันใช้ Kepori อย่างไร',
+      'บันทึกแล้วกลับมาอ่าน: วิธีจัดคอลเลกชันของฉัน',
+      'ค้นหาสิ่งที่เคยบันทึกด้วยการค้นหาในเครื่องของ Kepori'
+    ],
     steps: [
-      ['แชร์ประสบการณ์ของคุณ', 'เผยแพร่โพสต์หรือวิดีโอต้นฉบับที่แนะนำ Kepori แบบสาธารณะบนโซเชียลมีเดีย พร้อมระบุชื่อแอป'],
+      ['แชร์ประสบการณ์ของคุณ', 'เผยแพร่โพสต์หรือวิดีโอต้นฉบับแบบสาธารณะที่แนะนำ Kepori พร้อมระบุชื่อแอป คุณอาจเล่าถึงการใช้งานจริงและแนบภาพหน้าจอแอป'],
       ['สะสมไลก์จริง', 'รับ 20 หรือ 50 ไลก์ในโพสต์เดียว เก็บลิงก์สาธารณะและภาพหน้าจอที่เห็นจำนวนไลก์ไว้'],
-      ['ตรวจสอบแล้วแลกสิทธิ์', 'ส่งข้อมูลให้ทีมงาน เมื่อตรวจสอบแล้วจะได้รับรหัสเฉพาะสำหรับแลกผ่าน App Store จากหน้า Kepori Pro']
+      ['ตรวจสอบแล้วแลกสิทธิ์', 'เปิด Share for Pro จากแถบด้านข้าง Kepori ส่งลิงก์โพสต์และภาพหน้าจอยอดไลก์ผ่านช่องทางที่ระบุ หลังตรวจสอบแล้วรับสิทธิ์ผ่าน App Store']
     ],
     rulesTitle: 'เงื่อนไขการร่วมกิจกรรม', rules: [
       'โพสต์ต้องเป็นผลงานต้นฉบับ เข้าถึงได้แบบสาธารณะ และแนะนำ Kepori โปรดปิดบังข้อมูลส่วนตัวในภาพหน้าจอหรือวิดีโอ',
@@ -413,15 +509,23 @@ export const shareCopy = {
     retry: 'Kiểm tra lại',
     pageTitle: 'Chia sẻ Kepori, nhận Pro', languageLabel: 'Chọn ngôn ngữ',
     eyebrow: 'Chương trình chia sẻ Kepori', headlineFirst: 'Điều bạn thích,', headlineSecond: 'hãy sẻ chia.',
-    intro: 'Đăng bài giới thiệu Kepori để nhiều người biết đến cách lưu giữ những điều đáng quý.',
+    intro: 'Chia sẻ trải nghiệm thật của bạn với Kepori. Những ưu đãi Pro này là lời cảm ơn của chúng tôi vì bạn đã giới thiệu ứng dụng.',
     rewardsTitle: 'Lời cảm ơn dành cho bạn', rewardsContext: 'Một bài đăng công khai', groupLabel: 'Chọn phần thưởng', likes: '{likes} lượt thích',
     monthTitle: '1 tháng Pro', monthPrice: 'Nhận miễn phí', lifetimeTitle: 'Pro trọn đời', lifetimePriceNote: 'Giá ưu đãi',
     monthRequest: '1 tháng Kepori Pro miễn phí', lifetimeRequest: 'Kepori Pro trọn đời với giá {price}',
     rewardHint: 'Bạn có thể nhận tháng miễn phí trước, rồi xin ưu đãi trọn đời khi đạt 50 lượt thích.', stepsTitle: 'Ba bước để nhận Pro',
+    entryHint: 'Trong ứng dụng: thanh bên Kepori → Share for Pro',
+    ideasTitle: 'Bạn chưa biết nên chia sẻ gì?',
+    thanks: 'Cảm ơn bạn đã chia sẻ. Trải nghiệm thật của bạn là lời giới thiệu tốt nhất cho Kepori.',
+    ideas: [
+      'Gom nội dung đã lưu về một nơi: cách tôi dùng Kepori',
+      'Từ lưu đến đọc: thói quen sưu tập của tôi',
+      'Tìm lại nội dung bằng tính năng tìm kiếm trên thiết bị của Kepori'
+    ],
     steps: [
-      ['Chia sẻ trải nghiệm', 'Đăng bài viết kèm ảnh hoặc video do bạn tự làm, giới thiệu Kepori công khai trên mạng xã hội. Ghi rõ tên ứng dụng.'],
+      ['Chia sẻ trải nghiệm', 'Đăng bài hoặc video do bạn tự tạo ở chế độ công khai để giới thiệu Kepori và ghi rõ tên ứng dụng. Bạn có thể kể một tình huống sử dụng thật kèm ảnh chụp ứng dụng.'],
       ['Nhận lượt thích thật', 'Đạt 20 hoặc 50 lượt thích trên một bài đăng. Giữ đường dẫn công khai và ảnh chụp hiển thị số lượt thích.'],
-      ['Xác minh rồi đổi mã', 'Gửi thông tin cho đội ngũ. Sau khi xác minh, bạn nhận mã riêng để đổi qua App Store tại màn hình Kepori Pro.']
+      ['Xác minh rồi đổi mã', 'Mở Share for Pro từ thanh bên Kepori. Gửi liên kết bài đăng và ảnh chụp số lượt thích qua thông tin liên hệ trên trang. Sau khi được kiểm tra, nhận ưu đãi qua App Store.']
     ],
     rulesTitle: 'Lưu ý khi tham gia', rules: [
       'Bài đăng phải do bạn tự tạo, truy cập công khai và giới thiệu Kepori. Hãy che thông tin cá nhân trong ảnh chụp hoặc video.',
