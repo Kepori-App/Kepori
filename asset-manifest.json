@@ -1,55 +1,55 @@
 [
   {
     "path": "404.html",
-    "sha256": "e52b43274087a3cffc3a015eb5d1611334183a7f18ac239e84a7bb8d656f0f5f"
+    "sha256": "f8089d9ba23094b5b603abced5b43d79388f8a2f61574854bc9335f6ab061350"
   },
   {
-    "path": "_next/static/233f4e16-37f2-4992-8efe-f7637720183b/_buildManifest.js",
+    "path": "_next/static/086dd423-525d-430c-8350-bf3941fe3101/_buildManifest.js",
     "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
   },
   {
-    "path": "_next/static/233f4e16-37f2-4992-8efe-f7637720183b/_ssgManifest.js",
+    "path": "_next/static/086dd423-525d-430c-8350-bf3941fe3101/_ssgManifest.js",
     "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
   },
   {
-    "path": "_next/static/chunks/LegalPage-BMfiDX0n.js",
-    "sha256": "49225c3f014ff9c15735d2b4ba4c252fae4ff449f747f7633622d8d98a590759"
+    "path": "_next/static/chunks/LegalPage-BcCqOihs.js",
+    "sha256": "a9e1f5b59aa94b770425bd380bbbbea1507eb4c0813b31898c8b3d97187b1e37"
   },
   {
-    "path": "_next/static/chunks/Website-B-6d0v0M.js",
-    "sha256": "53026a1b06dc6d8640a6277da92e217ea683d3e09fb9450f02c3d581b055ab98"
+    "path": "_next/static/chunks/Website-DGmkeyzn.js",
+    "sha256": "8b7fc5c380a523a165ecada86e41b13f39359935888a5ff49cd18e0cce827f99"
   },
   {
-    "path": "_next/static/chunks/app-route-prefetch-policy-CpGwSIT6.js",
-    "sha256": "5ce67292774edb3cbd54efe4f64fc0ca6add68852af7f084c61ef5e730e37879"
+    "path": "_next/static/chunks/app-route-prefetch-policy-DkTxEnb3.js",
+    "sha256": "afd720e8a3eebe84a3c534fdf5db624634c98929787c54f86a6ea79ffc372fc2"
   },
   {
     "path": "_next/static/chunks/framework-D_rUT4EX.js",
     "sha256": "939d0fabebb3b2f01753bb866b067d8d3384fb06da19f0e6557609d3b1a9f4f7"
   },
   {
-    "path": "_next/static/chunks/index-4P4WSri7.js",
-    "sha256": "6a6d8a0c7341e4d0065a6e1224f7a3d0a4f84de647f6cd9df548baff5c80606b"
+    "path": "_next/static/chunks/index-BFfyqPqq.js",
+    "sha256": "3e451c536ef3678403e05465f5cfa00764a59f0ad4a55caae9c49280dc56274d"
   },
   {
-    "path": "_next/static/chunks/layout-segment-context-D__7nvyY.js",
-    "sha256": "4fac50ba13cd44b60e27fd5a855e85107f1a4a6d264b62a0d2d87f839343560f"
+    "path": "_next/static/chunks/layout-segment-context-BEvwYBm9.js",
+    "sha256": "27d3eb7101a899cb8d4984e6147201dbe03a7a6dd40cb7b37f7729593e861664"
+  },
+  {
+    "path": "_next/static/chunks/preferences-BwGIDlq6.js",
+    "sha256": "208a35370d0b98e735e790f87911bbaa8c2a164895566e8069b1e7b7073ec09a"
   },
   {
     "path": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
   },
   {
-    "path": "_next/static/chunks/site-config-azthkQKC.js",
-    "sha256": "469a7a6e580606e5bf9144f27b36ded60c1c4aef029f50d69069def25326bae6"
-  },
-  {
     "path": "_next/static/chunks/streamed-icons-Cs-m6aYg.js",
     "sha256": "7eb2a6b44b9c0faa7300c8dd36b0fae7a35d9f65e139dd9046b3df193aa83bc8"
   },
   {
-    "path": "_next/static/css/index.DFIoIu_G.css",
-    "sha256": "40c5f4980ebe14b8c06b993525f00c51675924da7df14579c1f3d15249041c01"
+    "path": "_next/static/css/index.BJ0myGTc.css",
+    "sha256": "23e17afd30362a790eebe77be9b8c8653dcbcce9ea498cc79b0d228edd6a61bb"
   },
   {
     "path": "campaigns/current.json",
@@ -153,26 +153,26 @@
   },
   {
     "path": "index.html",
-    "sha256": "9229b7bb5c629fe9771da1dfaeb550c99fd5f63d5f4f061cae1533acc2147fc3"
+    "sha256": "80a4e80b937d4b1a6a6a832e49a599fdeddedb04b1260f0093625b116ba30fcb"
   },
   {
     "path": "index.rsc",
-    "sha256": "ccb6741487a4c0f979bfb8ff712f6f5ce1ae3b2e9338ef93ea96aedd38b9c3eb"
+    "sha256": "343ab50383ccaec62b0c1c251abec646e60c76c849455bc63d8125fe5b9338fc"
   },
   {
     "path": "privacy.html",
-    "sha256": "af20a0d26199b95bd7411f50bde846a1df5d4f937c5f12a8c6dbf987262d8740"
+    "sha256": "57cdd123c37f5a3db14db309eab4c29bf9fbb2d034de614a9df6743019555da4"
   },
   {
     "path": "privacy.rsc",
-    "sha256": "0ab808184a7606d27808d8cffa5e35bc78c32d981dcc39fe1647925a91e002ee"
+    "sha256": "5d511429b614f0f32527095aa1551e71c5efe5f76f31f5a295575cf9c782c5e8"
   },
   {
     "path": "terms.html",
-    "sha256": "6476be59b0faedf1b4361d484f64f2366e582f70a6a5d8451e7495b6a0d07057"
+    "sha256": "cf567536b654d37a581918744681d6eab7dfbddec76c682bc99b14b14f143277"
   },
   {
     "path": "terms.rsc",
-    "sha256": "edd2d27b6d8acc26b14c8fd21263ec80f31e765220fc2721c65ceb91edfd861a"
+    "sha256": "7ce6aeb9ab0f670b67280ce15b259d4bcec2056ac2a77a5b72d96b0f43d0b919"
   }
 ]

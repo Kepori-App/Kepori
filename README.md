@@ -1,7 +1,7 @@
 <p align="center"><img src="docs/images/app-icon.png" width="96" alt="Kepori app icon"></p>
 <h1 align="center">Kepori</h1>
 <p align="center"><strong>让喜欢，有处安放。</strong><br>A home for what you love.</p>
-<p align="center"><a href="https://kepori.app">官网 · Website</a> · <a href="https://kepori.app/privacy">隐私政策 · Privacy</a> · <a href="https://kepori.app/terms">服务条款 · Terms</a></p>
+<p align="center"><a href="https://kepori.app">官网 · Website</a> · <a href="https://kepori-app.github.io/feedback/">意见反馈 · Feedback</a> · <a href="https://kepori.app/privacy">隐私政策 · Privacy</a> · <a href="https://kepori.app/terms">服务条款 · Terms</a></p>
 
 Kepori 是面向 iPhone 和 iPad 的本地优先收藏与阅读工具。把散落各处的公开链接保存下来，用空间、笔记和高亮整理，在需要时通过关键词或本地智能搜索找回。
 
@@ -25,7 +25,7 @@ The App Store download link is coming soon. Availability will be announced here 
 ## 官网与反馈
 
 - [Kepori 官网](https://kepori.app)
-- 功能建议和普通问题可提交至本仓库 Issues。
+- [意见反馈](https://kepori-app.github.io/feedback/)：免注册提交使用问题与改进建议，公开查看处理进展；也可继续使用本仓库 Issues。
 - 隐私、安全或涉及个人资料的问题请发送至 **jinwandalaohu940@gmail.com**，不要在公开 Issue 中提交密码、密钥或私人收藏。
 
 网页中的演示收藏、概念界面和示例摄影均有标记，不代表真实 App 截图或用户数据。官网的语言切换、深浅色与交互演示可直接体验。
